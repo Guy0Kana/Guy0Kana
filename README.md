@@ -118,12 +118,11 @@ Open to projects, research and collaborations in cybersecurity, machine learning
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guy0Kana&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
-<!-- Optional footer animation. First add the workflow file .github/workflows/snake.yml, run it once,
-     then remove these comment marks.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guy0Kana/Guy0Kana/output/github-snake-dark.svg">
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/Guy0Kana/Guy0Kana/output/github-snake.svg">
   </picture>
 </p>
--->
+
