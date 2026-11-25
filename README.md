@@ -1,27 +1,36 @@
-## < whoami >
+<p align="center">
+  <img src="./banner.gif" alt="Terminal animation: whoami, guyo kana, machine learning for cybersecurity" width="760"/>
+</p>
+
+<h2 align="center">&lt; whoami &gt;</h2>
 
 ```text
 ┏──[ whoami ]──────────────────────────────────────────────────┓
 ┃                                                              ┃
+┃     ____ _   ___   _____    _  __    _    _   _    _         ┃
+┃    / ___| | | \ \ / / _ \  | |/ /   / \  | \ | |  / \        ┃
+┃   | |  _| | | |\ V / | | | | ' /   / _ \ |  \| | / _ \       ┃
+┃   | |_| | |_| | | || |_| | | . \  / ___ \| |\  |/ ___ \      ┃
+┃    \____|\___/  |_| \___/  |_|\_\/_/   \_\_| \_/_/   \_\     ┃
+┃                                                              ┃
+┃--------------------------------------------------------------┃
 ┃ > USER       : Guyo Kana (Guy0Kana)                          ┃
+┃--------------------------------------------------------------┃
 ┃ > STUDYING   : Cybersecurity & Computer Networks, year 3     ┃
+┃--------------------------------------------------------------┃
 ┃ > FOCUS      : Machine learning for cybersecurity            ┃
-┃ > LANGUAGES  : Python, C/C++, Swift                          ┃
-┃ > STATUS     : Focusing (GitHub says so, so it must be true) ┃
+┃--------------------------------------------------------------┃
 ┃ > OBJECTIVE  : Break it, understand it, fix it, then write   ┃
 ┃                it down so future me does not have to         ┃
 ┃                rediscover it.                                ┃
-┃                                                              ┃
 ┗──────────────────────────────────────────────────────────────┛
 ```
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-</p>
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Guy0Kana.Guy0Kana&right_color=cornflowerblue&left_text=Visitors" alt="Visitors"/>
+</div>
 
-## < focus >
+<h2 align="center">&lt; focus &gt;</h2>
 
 ```text
 $ cat focus.txt
@@ -31,69 +40,113 @@ $ cat focus.txt
 4. Robots and IoT       -> C, ESP32, things that touch the real world
 ```
 
-## < tech_stack >
+<h2 align="center">&lt; tech_stack &gt;</h2>
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
+> ### Programming languages
+> <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></td>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/></td>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/></td>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift"/></td>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></td>
+>  </tr>
+>  <tr>
+>  <td align="center">Python</td>
+>  <td align="center">C</td>
+>  <td align="center">C++</td>
+>  <td align="center">Swift</td>
+>  <td align="center">JavaScript</td>
+>  </tr>
+> </table>
 
-### Machine learning and data
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-  <!-- Add the ML libraries you use:
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  -->
-</p>
+> ### Machine learning and data
+> <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/></td>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"/></td>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI"/></td>
+>  </tr>
+>  <tr>
+>  <td align="center">Jupyter</td>
+>  <td align="center">Pandas</td>
+>  <td align="center">FastAPI</td>
+>  </tr>
+> </table>
+>
+> Also: LangChain, RAG pipelines, the TON_IoT dataset.
 
-### Networks and security
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco">
-  <img src="https://img.shields.io/badge/Mininet-333333?style=flat-square" alt="Mininet">
-  <img src="https://img.shields.io/badge/Ryu_%2F_OpenFlow-333333?style=flat-square" alt="Ryu and OpenFlow">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
-</p>
+> ### Networks and security
+> <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/></td>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx"/></td>
+>  </tr>
+>  <tr>
+>  <td align="center">Linux</td>
+>  <td align="center">Nginx</td>
+>  </tr>
+> </table>
+>
+> Also: Cisco (CCNA), Mininet, Ryu, OpenFlow, TLS and ZeroSSL, hardening web servers.
 
-### Web, cloud and delivery
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-</p>
+> ### Web, cloud and delivery
+> <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/></td>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express"/></td>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite"/></td>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure"/></td>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/></td>
+>  </tr>
+>  <tr>
+>  <td align="center">Node.js</td>
+>  <td align="center">Express</td>
+>  <td align="center">SQLite</td>
+>  <td align="center">Azure</td>
+>  <td align="center">GitHub Actions</td>
+>  </tr>
+> </table>
 
-### Embedded and IoT
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT">
-</p>
+> ### Developer tools and embedded
+> <table width="100%">
+>  <tr>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></td>
+>  <td align="center"><img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/></td>
+>  </tr>
+>  <tr>
+>  <td align="center">Git</td>
+>  <td align="center">VS Code</td>
+>  </tr>
+> </table>
+>
+> Also: ESP32, MQTT, C for robotics.
 
-## < certifications >
 
-- Cisco Certified Network Associate (CCNA)
+---
 
-## < repos >
+<h3 align="center">&lt; certifications &gt;</h3>
 
-| Project | What it does | Tech |
-|---|---|---|
-| [**Super Split**](https://github.com/Guy0Kana/supersplit) | Pulls NVD, CISA KEV and EPSS data into one dashboard so you can see what actually needs patching. Has a threat level meter, a security posture quiz and AI-written briefs. Runs on Azure behind Nginx with a ZeroSSL certificate. | Node.js, Express, SQLite |
-| [**Edge-IoT-IDS**](https://github.com/Guy0Kana/Edge-IoT-IDS) | Lightweight ML intrusion detection that is small enough for IoT devices. Tested on the TON_IoT dataset. | Python, Jupyter |
-| [**SynthNet**](https://github.com/Guy0Kana/SynthNet) | ML-assisted SDN that classifies traffic and manages QoS in a simulated campus network. | Python, Mininet, Ryu |
-| [**AI-Tutor**](https://github.com/Guy0Kana/AI-Tutor) | Turns English curriculum content into summaries and revision help for Swahili-speaking learners. | Python, FastAPI, RAG |
-| [**Kenya FinAccess DataSprint**](https://github.com/Guy0Kana/Datasprint2026-KenyaFinAccess) | Models changes in financial status among Kenyan adults using the 2024 FinAccess survey. | Python, Pandas |
-| [**AgriWeatherSensor**](https://github.com/Guy0Kana/AgriWeatherSensor) | ESP32 sensors that send soil and weather readings to farmers over MQTT and HTTP. | ESP32, MQTT |
+<p align="center">Cisco Certified Network Associate (CCNA)</p>
 
-## < beyond_the_code >
+<h2 align="center">&lt; repos &gt;</h2>
+
+<table align="center" width="100%">
+  <tr>
+  <td width="50%"><a href="https://github.com/Guy0Kana/supersplit"><img alt="supersplit" src="https://opengraph.githubassets.com/1/Guy0Kana/supersplit"/></a></td>
+  <td width="50%"><a href="https://github.com/Guy0Kana/Edge-IoT-IDS"><img alt="Edge-IoT-IDS" src="https://opengraph.githubassets.com/1/Guy0Kana/Edge-IoT-IDS"/></a></td>
+  </tr>
+  <tr>
+  <td width="50%"><a href="https://github.com/Guy0Kana/SynthNet"><img alt="SynthNet" src="https://opengraph.githubassets.com/1/Guy0Kana/SynthNet"/></a></td>
+  <td width="50%"><a href="https://github.com/Guy0Kana/AI-Tutor"><img alt="AI-Tutor" src="https://opengraph.githubassets.com/1/Guy0Kana/AI-Tutor"/></a></td>
+  </tr>
+  <tr>
+  <td width="50%"><a href="https://github.com/Guy0Kana/Datasprint2026-KenyaFinAccess"><img alt="Datasprint2026-KenyaFinAccess" src="https://opengraph.githubassets.com/1/Guy0Kana/Datasprint2026-KenyaFinAccess"/></a></td>
+  <td width="50%"><a href="https://github.com/Guy0Kana/AgriWeatherSensor"><img alt="AgriWeatherSensor" src="https://opengraph.githubassets.com/1/Guy0Kana/AgriWeatherSensor"/></a></td>
+  </tr>
+</table>
+
+<h2 align="center">&lt; beyond_the_code &gt;</h2>
 
 ```text
 $ ls ~/life
@@ -103,21 +156,25 @@ steamlabs_africa/     # volunteering, getting more people into STEAM
 maths_and_physics/    # the reason the rest of this works
 ```
 
-## < socials >
+<h2 align="center">&lt; socials &gt;</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guyo-kana-b75636402/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guyokgodana@gmail.com)
--->
-
-Open to projects, research and collaborations in cybersecurity, machine learning and networks.
-
-## < github_stats >
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guy0Kana&theme=tokyonight&hide_border=true" alt="GitHub streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guy0Kana&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <a href="https://www.linkedin.com/in/guyo-kana-b75636402/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:guyokgodana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+-->
 
+<p align="center">Open to projects, research and collaborations in cybersecurity, machine learning and networks.</p>
+
+<h2 align="center">&lt; github_stats &gt;</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guy0Kana&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guy0Kana&theme=tokyonight" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guy0Kana&theme=tokyonight" alt="Most committed language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guy0Kana&theme=tokyonight" alt="Profile details"/>
+</div>
 
 <p align="center">
   <picture>
@@ -125,4 +182,3 @@ Open to projects, research and collaborations in cybersecurity, machine learning
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/Guy0Kana/Guy0Kana/output/github-snake.svg">
   </picture>
 </p>
-
